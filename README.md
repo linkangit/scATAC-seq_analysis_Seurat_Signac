@@ -1,6 +1,7 @@
 # scATAC-seq_analysis_Seurat_Signac
 
 ![](scATAC_scRNA-seq.jpeg)
+
 ![](Coverage_plot.jpeg)
 Welcome to this hands-on workflow for exploring single-cell ATAC-seq (scATAC-seq) data and integrating it with single-cell RNA-seq (scRNA-seq) data in R. If you’re curious about how chromatin accessibility relates to gene expression at the single-cell level, you’re in the right place.
 
