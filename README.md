@@ -1,5 +1,6 @@
 # scATAC-seq_analysis_Seurat_Signac
 
+![]()
 Welcome to this hands-on workflow for exploring single-cell ATAC-seq (scATAC-seq) data and integrating it with single-cell RNA-seq (scRNA-seq) data in R. If you’re curious about how chromatin accessibility relates to gene expression at the single-cell level, you’re in the right place.
 
 This pipeline is built around 10x Genomics PBMC data, but you can easily adapt it for your own samples. The code is **deeply commented** and structured to help you learn, tweak, and extend as you go.
@@ -60,6 +61,10 @@ Put these files in your working directory (or update the paths in the script):
 | `atac_v1_pbmc_10k_fragments.tsv.gz` | 10x Genomics scATAC-seq fragment file |
 | `atac_v1_pbmc_10k_singlecell.csv` | Cell-level metadata for scATAC-seq |
 | `pbmc_10k_v3.rds` | Pre-processed Seurat object with scRNA-seq and cell type annotations |
+
+Download links:
+1. [10k pbmc scATAC-seq datasets](https://www.10xgenomics.com/datasets/10-k-peripheral-blood-mononuclear-cells-pbm-cs-from-a-healthy-donor-1-standard-1-0-1)
+2. [Preprocessed scRNA-seq data](https://signac-objects.s3.amazonaws.com/pbmc_10k_v3.rds)
 
 If you’re using your own data, make sure the formats match or adjust the code as needed.
 
