@@ -1,4 +1,4 @@
-# scATAC-seq_analysis_Seurat_Signac
+# Single-cell ATAC-seq analysis
 
 ### **scATAC-seq and scRNA-seq integration**
 ![](scATAC_scRNA-seq.jpeg)
