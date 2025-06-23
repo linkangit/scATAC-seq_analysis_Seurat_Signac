@@ -136,7 +136,7 @@ Finally, we plot coverage tracks for regions of interest (e.g., top differential
 
 2. **Prepare your input files** as described above.
 
-3. **Open the main R script** (e.g., `analysis.R`) in RStudio or your favorite R environment.
+3. **Open the main R script** (`analysis.R`) in RStudio or your favorite R environment.
 
 4. **Run the script section by section.**  
    Each part is clearly commented and can be run independently. Check your results as you go!
