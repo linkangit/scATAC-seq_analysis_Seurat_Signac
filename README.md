@@ -130,8 +130,8 @@ Finally, we plot coverage tracks for regions of interest (e.g., top differential
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/scATAC-scRNA-integration.git
-   cd scATAC-scRNA-integration
+   git clone https://github.com/linkangit/scATAC-seq_analysis_Seurat_Signac.git
+   cd scATAC-seq_analysis_Seurat_Signac
    ```
 
 2. **Prepare your input files** as described above.
